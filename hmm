@@ -1,0 +1,1 @@
+$ wget -qO- http://install.keymetrics.io/install.sh | SECRET_ID=1ih54idgynkgv71 PUBLIC_ID=u3d8vxnk8x3mzsm bash
